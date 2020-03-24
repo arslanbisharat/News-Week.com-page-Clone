@@ -19,7 +19,7 @@ In this project I have build a replica of the news site Newsweek.com using the B
 
 
 
-[Live Demo Link](https://raw.githack.com/News-Week.com Clone/main-branch/index.html)
+[Live Demo Link](https://raw.githack.com/arslanbisharat/News-Week.com-page-Clone/main-project/index.html)
 
 ## Getting Started
 
