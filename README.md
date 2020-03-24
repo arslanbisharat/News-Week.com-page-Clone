@@ -19,9 +19,7 @@ In this project I have build a replica of the news site Newsweek.com using the B
 
 
 
-## Live Demo
-
-https://raw.githack.com/rootDEV2990/Newsweek-Bootstrap/bootstrap/index.html
+[Live Demo Link](https://raw.githack.com/News-Week.com Clone/main-branch/index.html)
 
 ## Getting Started
 
