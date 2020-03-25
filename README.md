@@ -21,37 +21,6 @@ In this project I have build a replica of the news site Newsweek.com using the B
 
 [Live Demo Link](https://raw.githack.com/arslanbisharat/News-Week.com-page-Clone/main-project/index.html#L19)
 
-## Getting Started
-
-Simply download the zip and decompress. Once decompressed, double click or open index.html in any web browser. 
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-Any web browser will do, Mozilla, Safari, or Chrome. 
-
-### Setup
-
-None needed drecompress and drag and drop onto browser. 
-
-### Install
-
-None needed. 
-
-### Usage
-
-Microverse Curriculum. 
-
-### Run tests
-
-Text editor and web browser.
-
-### Deployment
-
-Localhost. 
-
 
 
 👤 **Muhammad Arslan**
@@ -64,15 +33,9 @@ Localhost.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/arslanbisharat/News-Week.com-page-Clone/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-Bitcoin donations accepted ;)
-
- 
-## 📝 License
-
-This project is for microverse course purposes.
