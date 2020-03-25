@@ -279,12 +279,9 @@ h5.subscribe-and-newsletters-title {
 
 .newsletter-bot-container {
   height: 100% !important;
+  height: 50%;
+  margin-bottom: -30%;
 }
-
-  .newsletter-bot-container {
-height: 50%;
-    margin-bottom: -30%;
-  }
 
   .newsletter-bot-right {
   border: 1px solid #e5e5e5;
