@@ -225,7 +225,6 @@ div.featured-stories {
   object-fit: cover;
 }
 
-
 .magazines-container h3 {
   font-size: 20px;
   font-weight: bold;
@@ -251,6 +250,10 @@ h5.subscribe-and-newsletters-title {
   height: 100%;
 }
 
+.newsletter-bot-container img {
+  height: 100%;
+}
+
 .subscribe img:first-of-type {
   left: 0%;
   top: 0%;
@@ -262,10 +265,9 @@ h5.subscribe-and-newsletters-title {
   bottom: 0%;
   height: 90%;
 }
-
-
+  
   .subscribe img:nth-of-type(2) {
-    right: 30%;
+  right: 30%;
     bottom: 0%;
     height: 90%;
   }
@@ -277,20 +279,15 @@ h5.subscribe-and-newsletters-title {
 }
 
 .newsletter-bot-container {
-  height: 100%;
+  height: 100% !important;
 }
-
-
+  
   .newsletter-bot-container {
-    height: 50%;
+height: 50%;
     margin-bottom: -30%;
   }
 
-  .newsletter-bot-container img {
-    height: 100%;
-  }
-
-.newsletter-bot-right {
+  .newsletter-bot-right {
   border: 1px solid #e5e5e5;
 }
 
