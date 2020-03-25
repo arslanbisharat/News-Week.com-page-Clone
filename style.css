@@ -234,7 +234,6 @@ img.hashtag {
   width: 20%;
 }
 
-
 h3.category-title,
 h5.subscribe-and-newsletters-title {
   color: red;
@@ -265,12 +264,6 @@ h5.subscribe-and-newsletters-title {
   bottom: 0%;
   height: 90%;
 }
-  
-.subscribe img:nth-of-type(2) {
-  right: 30%;
-  bottom: 0%;
-  height: 90%;
-}
 
 .subscribe-container {
   height: 120%;
@@ -283,7 +276,7 @@ h5.subscribe-and-newsletters-title {
   margin-bottom: -30%;
 }
 
-  .newsletter-bot-right {
+.newsletter-bot-right {
   border: 1px solid #e5e5e5;
 }
 
