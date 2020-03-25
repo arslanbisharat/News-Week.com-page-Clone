@@ -225,11 +225,6 @@ div.featured-stories {
   object-fit: cover;
 }
 
-@media only screen and (max-width: 768px) {
-  .magazines-container img {
-    height: 78%;
-  }
-}
 
 .magazines-container h3 {
   font-size: 20px;
@@ -240,11 +235,6 @@ img.hashtag {
   width: 20%;
 }
 
-@media only screen and (max-width: 768px) {
-  img.hashtag {
-    width: 12%;
-  }
-}
 
 h3.category-title,
 h5.subscribe-and-newsletters-title {
@@ -261,13 +251,6 @@ h5.subscribe-and-newsletters-title {
   height: 100%;
 }
 
-@media only screen and (max-width: 768px) {
-  .subscribe-left {
-    width: 260px;
-    height: 50%;
-  }
-}
-
 .subscribe img:first-of-type {
   left: 0%;
   top: 0%;
@@ -280,12 +263,6 @@ h5.subscribe-and-newsletters-title {
   height: 90%;
 }
 
-@media only screen and (max-width: 768px) {
-  .subscribe img:first-of-type {
-    left: 30%;
-    top: 0%;
-    height: 90%;
-  }
 
   .subscribe img:nth-of-type(2) {
     right: 30%;
@@ -303,7 +280,7 @@ h5.subscribe-and-newsletters-title {
   height: 100%;
 }
 
-@media only screen and (max-width: 768px) {
+
   .newsletter-bot-container {
     height: 50%;
     margin-bottom: -30%;
@@ -312,7 +289,6 @@ h5.subscribe-and-newsletters-title {
   .newsletter-bot-container img {
     height: 100%;
   }
-}
 
 .newsletter-bot-right {
   border: 1px solid #e5e5e5;
@@ -339,12 +315,6 @@ h5.subscribe-and-newsletters-title {
   height: 70%;
 }
 
-@media only screen and (max-width: 768px) {
-  .category-main-img {
-    width: 100%;
-    height: 80%;
-  }
-}
 
 img.category-aside-img {
   width: 10%;
