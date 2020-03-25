@@ -5,3 +5,5 @@ linters:
 files:
   ignore: 
     - 'css/reset.css*'
+fixers:
+    enable: true
